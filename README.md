@@ -1,27 +1,46 @@
 # Vida+ — ODS 3 Saúde e Bem-Estar
 
-Aplicativo web simples para promover hábitos saudáveis como consumo de água, exercícios e bem-estar emocional.
+Aplicativo web simples e responsivo, criado para ajudar usuários a manter hábitos saudáveis
+diários como consumo de água, atividade física, humor e bem-estar.  
 
-## 🔗 ODS Escolhida
-ODS 3 — Saúde e Bem-Estar
+Este projeto faz parte da A3 — Usabilidade, desenvolvimento web, mobile e jogos.
 
-## 🚀 Tecnologias
-- HTML5  
-- CSS3  
-- JavaScript  
-- Mobile First  
-- Git + GitHub  
+---
 
-## 📌 Funcionalidades
-- Registro de água  
-- Registro de exercícios  
-- Alteração de humor  
-- Lista de dicas de saúde  
+Objetivo do Projeto
+Promover saúde e bem-estar através de um app simples que incentiva pequenos hábitos positivos
+diários, contribuindo para a **ODS 3 – Saúde e Bem-Estar**.
+
+---
+
+ Funcionalidades
+- Registro de copos de água  
+- Registro de minutos de exercício  
+- Controle de humor (Feliz, Neutro, Cansado)  
+- Lista com dicas do dia  
 - Interface responsiva  
+- Mobile First  
 
-## ▶ Como executar
-1. Baixe o projeto  
-2. Abra o arquivo `index.html` no navegador  
+---
 
-## 👨‍💻 Autor
-Vitor Alexandre Piloto Machado
+Tecnologias Utilizadas
+- **HTML5**  
+- **CSS3**  
+- **JavaScript (Vanilla)**  
+- **Git + GitHub**  
+
+---
+
+Como Executar o Projeto
+1. Baixe o repositório ou os arquivos.
+2. Abra o arquivo **index.html** em qualquer navegador.
+
+Não precisa de instalação ou servidor — funciona direto.
+
+---
+
+ Entregas Relacionadas
+- **Entrega 1:** PDF com descritivo e protótipo (Figma)  
+- **Entrega 2:** Vídeo de apresentação  
+- **Entrega 3:** Código do projeto (este repositório)  
+- **Entrega 4:** Versionamento no GitHub (este repositório)  
