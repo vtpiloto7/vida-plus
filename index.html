@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vida+</title>
+  <link href="style.css" rel="stylesheet">
+</head>
+<body>
+
+<header>
+  <h1>Vida+</h1>
+</header>
+
+<section class="cards">
+  <div class="card">
+    <h3>Água 💧</h3>
+    <p id="agua">0 copos</p>
+    <button onclick="add('agua')">Adicionar</button>
+  </div>
+
+  <div class="card">
+    <h3>Exercício 🏃‍♂️</h3>
+    <p id="exercicio">0 min</p>
+    <button onclick="add('exercicio')">Adicionar</button>
+  </div>
+
+  <div class="card">
+    <h3>Humor 🙂</h3>
+    <p id="humor">Neutro</p>
+    <button onclick="toggleHumor()">Mudar</button>
+  </div>
+</section>
+
+<section class="dicas">
+  <h2>Dicas do Dia</h2>
+  <ul>
+    <li>Beber 2L de água</li>
+    <li>Alongue por 5 minutos</li>
+    <li>Respire fundo por 1 minuto</li>
+  </ul>
+</section>
+
+<script src="script.js"></script>
+</body>
+</html>
